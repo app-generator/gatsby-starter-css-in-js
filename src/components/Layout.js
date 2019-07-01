@@ -204,9 +204,10 @@ const Layout = ({ children, customSEO }) => {
         <GlobalStyle />
         {children}
         <Footer>
-          &copy; 2019 by LekoArts. All rights reserved. <br />
-          <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog">GitHub Repository</a> <br />
-          <span>Last build: {buildTime}</span>
+          &copy; 2019 Initialy coded by <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog">LekoArts</a> <br />
+          <br />
+          Built with <a href="https://www.gatsbyjs.org/">GatsbyJS</a>, styled in Css-in-JS. 
+          {' '}Enhanced by <a href="https://twitter.com/Sm0keDev">Sm0ke</a>
         </Footer>
       </>
     </ThemeProvider>
