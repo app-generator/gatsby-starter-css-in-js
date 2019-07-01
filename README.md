@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![GatsbyJs SCSS Starter - Animated intro](https://github.com/app-generator/static/blob/master/gatsbyjs-starters/gatsbyjs-starters-cssinjs-lighthouse-score.jpg?raw=true)
+![GatsbyJs Css-in-JS Starter.](https://github.com/app-generator/static/blob/master/gatsbyjs-starters/gatsbyjs-starters-cssinjs-comparision.jpg?raw=true)
 
 </p>
 
@@ -54,11 +54,11 @@ At this point, you’ve got a fully functional Gatsby website. For additional in
  - Offline Support
  - WebApp Manifest Support
  - SEO support
- 
+
 <br />
 
 ## Credits
 * Coded on top of this [starter](https://github.com/LekoArts/gatsby-starter-minimal-blog) provided by LekoArts
 
 ---
-Enhanced by [Sm0ke](https://twitter.com/Sm0keDev)
+Provided by [Sm0ke](https://twitter.com/Sm0keDev)
