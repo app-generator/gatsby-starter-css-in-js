@@ -60,7 +60,7 @@ const IndexPage = ({
           </Button>
         </a>
         {'   '}
-        <a href="https://developers.google.com/speed/pagespeed/insights/?url=https://gatsby-starter-cssinjs.appseed.us">
+        <a href="https://github.com/app-generator/gatsby-starter-cssinjs">
           <Button>
             Get Sources
           </Button>
